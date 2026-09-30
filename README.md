@@ -1,0 +1,2 @@
+# premium-fountain-pen-001-fountain-pen-nib-grinding-angl
+Tired of guessing your nib grinding angles and ending up with scratchy, inconsistent results? The Fountain Pen Nib Grinding Angle Log brings scientific precision to your custom nib work.  This Notion template eliminates the guesswork by providing a structured log to record and replicate every nib's grind geometry. No more forgotten angles or uneven
